@@ -1,6 +1,6 @@
 ## Olá, sou a Mariana! :cherry_blossom:
 
-**Analista de Business Intelligence** e entusiasta da **Ciência de Dados**, tenho forte aptidão analítica, com meus estudos e experiências profissionais e acadêmicas voltadas para dados e estatística. Autodidata, tenho facilidade com interpretação de dados e aprendizado de novas ferramentas ligadas à tecnologia. Além disso, estou concluindo a graduação em Ciências Econômicas pela Universidade Federal de Juiz de Fora (UFJF).
+**Cientista de Dados**, tenho forte aptidão analítica, com meus estudos e experiências profissionais e acadêmicas voltadas para dados e estatística. Autodidata, tenho facilidade com interpretação de dados e aprendizado de novas ferramentas ligadas à tecnologia. Além disso, estou concluindo a graduação em Ciências Econômicas pela Universidade Federal de Juiz de Fora (UFJF).
 
 ##
 
