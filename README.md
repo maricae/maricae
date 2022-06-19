@@ -1,6 +1,6 @@
 ## Olá, sou a Mariana! :cherry_blossom:
 
-**Cientista de Dados**, tenho forte aptidão analítica, com meus estudos e experiências profissionais e acadêmicas voltadas para dados e estatística. Autodidata, tenho facilidade com interpretação de dados e aprendizado de novas ferramentas ligadas à tecnologia. Além disso, estou concluindo a graduação em Ciências Econômicas pela Universidade Federal de Juiz de Fora (UFJF).
+Economista e Cientista de Dados, tenho forte aptidão analítica, com meus estudos independentes e experiências profissionais e acadêmicas voltadas para dados e estatística. Busco promover a importância da coleta e análise de dados em ambientes que almejam o crescimento.
 
 ##
 
