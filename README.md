@@ -17,14 +17,6 @@ Economista e Cientista de Dados, tenho forte aptidão analítica, com meus estud
 
 ## 
 
-#### 📚 Estou aprendendo:
-<div style="display: inline_block">
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img align="center" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-</div>
-
-## 
-
 #### 📈 Minhas estatísticas:
 <div>
  <a href="https://github.com/maricae">
