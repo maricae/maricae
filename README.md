@@ -1,21 +1,7 @@
-## Olá, sou a Mariana! :cherry_blossom:
+## Olá, me chamo Mariana! :cherry_blossom:
 
-Economista e Cientista de Dados, tenho forte aptidão analítica, com meus estudos independentes e experiências profissionais e acadêmicas voltadas para dados e estatística. Busco promover a importância da coleta e análise de dados em ambientes que almejam o crescimento.
-
+Sou Cientista de Dados e líder do time de dados da Braip. Formada em Economia pela Universidade Federal de Juiz de Fora - Campus Governador Valadares, direcionei toda a minha graduação e projetos para a área de dados e estatística. Hoje sou apaixonada por esse ecossistema e busco promover a importância do pensamento data-driven em ambientes que almejam o crescimento.
 ##
-
-#### 💻 Tenho experiência com:
-<div style="display: inline_block">
-  <img align="center" height="30" width="30"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/512px-New_Power_BI_Logo.svg.png">
-  <img align="center" height="15" width="70"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/512px-Tableau_Logo.png" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img align="center" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-</div>
-
-## 
 
 #### 📈 Minhas estatísticas:
 <div>
