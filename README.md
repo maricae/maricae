@@ -1,14 +1,14 @@
 ## Olá, me chamo Mariana! :cherry_blossom:
 
-Sou Cientista de Dados e líder do time de dados da Braip. Formada em Economia pela Universidade Federal de Juiz de Fora - Campus Governador Valadares, direcionei toda a minha graduação e projetos para a área de dados e estatística. Hoje sou apaixonada por esse ecossistema e busco promover a importância do pensamento data-driven em ambientes que almejam o crescimento.
+Sou Cientista de Dados e líder do time de dados da Braip. Sou formada em Economia pela Universidade Federal de Juiz de Fora - Campus Governador Valadares e atualmente faço pós em Data Science e Analytics na USP. 
+
+Com meus projetos e estudos direcionados para a área de dados e estatística durante a gradução, estagiei na Secretaria Municipal de Desenvolvimento e Inovação da minha cidade onde fui responsável pela criação de um observatório de dados chamado "Valadares em Dados" utilizando a ferramenta Microsoft Power BI. A partir dessas experiências, entrei na área de dados em 2021 como Analista de Business Intelligence Júnior e atualmente trabalho com a tão sonhada Ciência de Dados. 
+
+Hoje, apaixonada por esse ecossistema, além de trabalhar com a parte técnica, trabalho com foco em estruturar e fortalecer a cultura de dados dentro da organização.
 ##
 
 #### 📈 Minhas estatísticas:
 <div>
- <a href="https://github.com/maricae">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=maricae&show_icons=true&theme=panda&include_commits=true"/>
-</a>
-
 <a href="https://github.com/maricae">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maricae&layout=compact&langs_count=8&theme=panda"/>
 </a>
