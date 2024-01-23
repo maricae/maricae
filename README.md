@@ -18,12 +18,18 @@ Hoje, apaixonada por esse ecossistema, além de trabalhar com a parte técnica, 
 ## 
   
 #### ⚡ Meus principais repositórios:
+<a href="https://github.com/maricae/classificacao-produtos">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=maricae&repo=classificacao-produtos&theme=panda" /></a>
+
+<a href="https://github.com/maricae/remocao-outliers">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=maricae&repo=remocao-outliers&theme=panda" /></a>
+
 <a href="https://github.com/maricae/Clustering-R">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=maricae&repo=Clustering-R&theme=panda" /></a>
 
 <a href="https://github.com/karinnecristina/Engenharia_de_Dados">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=maricae&repo=Data_ingestion_R&theme=panda" /></a>
-
+  
 ##
 
 #### 📲 Contatos:
