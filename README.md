@@ -1,6 +1,6 @@
 # Olá, me chamo Mariana! :cherry_blossom:
 
-Formada em Ciências Econômicas pela UFJF e atualmente cursando MBA em Data Science e Analytics pela USP. Iniciei minha carreira na área de dados em 2021 como Analista de BI Júnior, onde fui responsável pela definição de regras de negócio, criação de dashboards e KPIs, além de estruturar o primeiro Data Warehouse da empresa com Pentaho Data Integration.
+Sou Cientista de Dados, formada em Ciências Econômicas pela UFJF e atualmente cursando MBA em Data Science e Analytics pela USP. Iniciei minha carreira na área de dados em 2021 como Analista de BI Júnior, onde fui responsável pela definição de regras de negócio, criação de dashboards e KPIs, além de estruturar o primeiro Data Warehouse da empresa com Pentaho Data Integration.
 
 Como Cientista de Dados, liderei a construção do primeiro time de dados da empresa, democratizando o uso de dados com o Metabase e criando o primeiro produto de machine learning da plataforma. Além disso, realizei análises estratégicas para a diretoria, contribuindo para a melhoria do direcionamento da empresa.
 
