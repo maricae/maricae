@@ -1,30 +1,43 @@
 # Olá, me chamo Mariana! :cherry_blossom:
 
-Sou Cientista de Dados, formada em Ciências Econômicas pela UFJF e atualmente cursando MBA em Data Science e Analytics pela USP. Iniciei minha carreira na área de dados em 2021 como Analista de BI Júnior, onde fui responsável pela definição de regras de negócio, criação de dashboards e KPIs, além de estruturar o primeiro Data Warehouse da empresa com Pentaho Data Integration.
+Cientista de Dados formada em Ciências Econômicas (UFJF) e MBA em Data Science & Analytics (USP).
 
-Como Cientista de Dados, liderei a construção do primeiro time de dados da empresa, democratizando o uso de dados com o Metabase e criando o primeiro produto de machine learning da plataforma. Além disso, realizei análises estratégicas para a diretoria, contribuindo para a melhoria do direcionamento da empresa.
+Desde 2021 atuo na área de dados, começando como Analista de BI Júnior, onde defini regras de negócio, criei dashboards e KPIs, e estruturei o primeiro Data Warehouse da empresa com Pentaho.
 
-Atualmente, meus estudos estão focados na parte de Engenharia de Dados e Cloud. Meu objetivo é me especializar em dados e conseguir contribuir com todas as etapas de processamento de dados dentro de uma organização.
+Como Cientista de Dados, liderei a formação do primeiro time de dados, democratizando o acesso à informação via Metabase e desenvolvendo o primeiro produto de machine learning da plataforma. Também conduzi análises estratégicas para a diretoria, apoiando decisões de alto impacto.
+
+Atualmente trabalho com CRM e Customer Analytics, estudando comportamento de compra, jornada do cliente e segmentações. Já atendi grandes empresas como Stanley, Ambev, Unilever e Pepsico, sempre integrando análise, tecnologia e visão de negócio.
+
+Tenho experiência em todo o ciclo de dados: engenharia, análise, modelagem e deploy de modelos em produção. No momento estou aprofundando meu foco em Machine Learning Engineering e MLOps.
 
 ##
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ### 💻 Tecnologias e Ferramentas:
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=fff)
-![Looker](https://img.shields.io/badge/Looker-4285F4.svg?style=for-the-badge&logo=Looker&logoColor=white)
-
-##
+<p align="left"> 
+  
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+  ![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white)
+  ![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+  ![Pipelines](https://img.shields.io/badge/Data%20Pipelines-0A66C2?style=for-the-badge&logo=airflow&logoColor=white)
+  ![AI](https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white)
+  ![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF0000?style=for-the-badge&logo=pytorch&logoColor=white)
+  
+</p>
 
 ### 📲 Contatos:
-<div>
+<p align="left"> 
   <a href="https://www.linkedin.com/in/mariana-caetano-vidal/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/mari.dados" target="_blank">
@@ -33,17 +46,7 @@ Atualmente, meus estudos estão focados na parte de Engenharia de Dados e Cloud.
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
   <a href="https://www.kaggle.com/marianacaetano" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a> 
-  <a href="https://public.tableau.com/app/profile/mariana.caetano.vidal2657/vizzes" target="_blank">
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" target="_blank"></a>  
-</div> 
-
-##
-
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=maricae&theme=dracula&show_icons=true" />
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=maricae&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" />
-  
-  ![Views](https://komarev.com/ghpvc/?username=maricae)	<p align="center">
+</p>
   
 </div>
 
