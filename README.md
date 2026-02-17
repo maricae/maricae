@@ -1,14 +1,12 @@
-# Olá, me chamo Mariana! :cherry_blossom:
+# Olá, me chamo Mariana! 👩🏻‍💻
 
-Cientista de Dados formada em Ciências Econômicas (UFJF) e MBA em Data Science & Analytics (USP).
+Sou Cientista de Dados com foco em modelagem preditiva, análise estatística e tomada de decisão orientada por dados.
 
-Desde 2021 atuo na área de dados, começando como Analista de BI Júnior, onde defini regras de negócio, criei dashboards e KPIs, e estruturei o primeiro Data Warehouse da empresa com Pentaho.
+Atualmente trabalho com CRM e Customer Analytics, analisando comportamento de compra, jornada do cliente e desenvolvendo modelos como churn, classificação de risco e segmentações comportamentais. Meu foco é transformar dados em decisões práticas, conectando métricas técnicas com impacto real no negócio.
 
-Como Cientista de Dados, liderei a formação do primeiro time de dados, democratizando o acesso à informação via Metabase e desenvolvendo o primeiro produto de machine learning da plataforma. Também conduzi análises estratégicas para a diretoria, apoiando decisões de alto impacto.
+Tenho formação em Ciências Econômicas (UFJF) e MBA em Data Science & Analytics (USP), o que fortaleceu minha base em estatística, econometria e métodos quantitativos, algo que aplico diariamente na construção e validação de modelos.
 
-Atualmente trabalho com CRM e Customer Analytics, estudando comportamento de compra, jornada do cliente e segmentações. Já atendi grandes empresas como Stanley, Ambev, Unilever e Pepsico, sempre integrando análise, tecnologia e visão de negócio.
-
-Tenho experiência em todo o ciclo de dados: engenharia, análise, modelagem e deploy de modelos em produção. No momento estou aprofundando meu foco em Machine Learning Engineering e MLOps.
+Tenho experiência em todo o ciclo analítico: exploração de dados, engenharia de features, modelagem, avaliação de desempenho e aplicação prática dos resultados. Me interesso especialmente por problemas que envolvem métricas de negócio, definição de trade-offs e análise de impacto.
 
 ##
 
